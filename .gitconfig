@@ -1,0 +1,5 @@
+[user]
+	name = Alex Ryabchenko
+	email = rav21930@gmail.com
+[alias]
+	history = log --graph
